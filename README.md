@@ -1,2 +1,2 @@
 # final-project
-hii Navkiran
+hello NAVKIRAN,GURJOT, AND GURKIRAT SINGH
