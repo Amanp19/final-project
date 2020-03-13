@@ -1,0 +1,4 @@
+we are using beaglebone green 
+for video and photo capture we use wireless FPV camera in which FPV camera mounted with robot to send real time video using video transmitter
+connecting wires
+XBEE s2c -2 wireless protocol which has power down current 1ua, transmit powe 2 mw, outddor line of sight up to 400 ft
