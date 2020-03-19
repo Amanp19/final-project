@@ -2,14 +2,11 @@
 sudo apt-get update
 sudo spt-get upgrade
 
-#some required basic installations
-
 sudo apt-get install build-essentials
 
+commands for installation of linaro
 
-#installation linaro
-
-cd (donload path of the linaro binary)
+cd Downloads
 
 sudo tar -xvf gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf.tar.xz
 
