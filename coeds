@@ -1,0 +1,16 @@
+
+sudo apt-get update
+sudo spt-get upgrade
+
+#some required basic installations
+
+sudo apt-get install build-essentials
+
+
+#installation linaro
+
+cd (donload path of the linaro binary)
+
+sudo tar -xvf gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf.tar.xz
+
+sudo apt-get install gcc-arm-linux-gnueabihf
