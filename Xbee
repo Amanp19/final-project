@@ -1,0 +1,22 @@
+
+
+We now carry the Series 2 XBee "ZigBee" modules. This is the PRO Series 2 ZigBee protocol 63mW with wire antenna. Its good for point-to-point, multipoint and mesh networks. This module is a little more difficult to get going than the Series 1 - we  must set up a "coordinator" module so they are not as plug-and-play. This module for those who are following the Building Wireless Sensor Network book as it focuses on Series 2.
+
+Series 2 modules cannot talk to Series 1 modules. The S2 modules are not necessarily better than S1 for many projects. They're just different as they use the "ZigBee" wireless stack instead of the other one. This makes them better for low power usage and advanced users who want a mesh topology (many XBees in a spread-out configuration) - but they are more difficult to use for basic point-to-point setups.
+
+The pins on an XBee are 2mm spacing, not 0.1" so they will not fit into a breadboard. For that reason, they work best in our XBee adapter module kit (which has a 250mA 3.3V regulator) or with the USB XBee adapter.
+
+This module comes with a wire antenna, its the same price as a chip antenna but 50% more range because of the improved antenna, awesome!
+Technical Details
+
+    TX Peak Current: 205mA
+    RX Current: 47 mA (@3.3 V)
+    Power-down Current: < 3.5 μA
+    Indoor/Urban: up to 300 ft (90 m)
+    Outdoor line-of-sight: up to 2 miles (3200 m)
+    Transmit Power: 63mW (18dBm)
+    Receiver Sensitivity: -102 dBm
+    Dimensions: 24mm x 33mm x 9mm (0.94in x 1.3in x 0.3in)
+    3.91g ( 0.14oz)
+
+
