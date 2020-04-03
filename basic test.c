@@ -1,4 +1,4 @@
-We are writing a basic C code for GPIO testing of Beaglbone       */
+We are writing a basic C code for GPIO testing of Beaglbone       
  
 #include<stdio.h>
 #include<stdlib.h>
