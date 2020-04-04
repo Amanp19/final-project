@@ -1,13 +1,4 @@
 
-sudo apt-get update
-sudo spt-get upgrade
-
-sudo apt-get install build-essentials
-
-commands for installation of linaro
-
-cd Downloads
-
-sudo tar -xvf gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf.tar.xz
-
-sudo apt-get install gcc-arm-linux-gnueabihf
+hello aman 
+I have done crosstool chain part1 and part2 according to the sir video.
+and took screen which i will upload on git hub means here in file.
