@@ -30,7 +30,7 @@ ll
 
 now do with arm cross complier
 
-arm-linux-gnueabihf-g++ hellTo.c -o hello.x
+arm-linux-gnueabihf-g++ hello.c -o hello.x
 
 ll
 
@@ -49,5 +49,5 @@ ssh 192.168.7.2 -l debian
 
 ./hello.x
 
-output will be here (hii example)
+output will be here (hello example)
 
