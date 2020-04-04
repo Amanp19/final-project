@@ -1,0 +1,53 @@
+apt-cache search cross-build-essential
+
+sudo apt install crossbuild-essential-armhf
+
+arm-linux-gnueabihf-g++ -v
+
+sudo apt install net-tools
+
+ifconfig
+
+ssh debian@192.168.7.2
+
+ls
+
+cd (select that folder which we have program)
+
+more hello.c(program name)
+
+Then make new directory in it for that hello program on beaglebone
+
+mkdir bbb(directory name)
+
+then copy program into bbb(directory name)
+
+cp hello.c bbb
+ 
+after go the bbb directory and check the file name 
+
+ll
+
+now do with arm cross complier
+
+arm-linux-gnueabihf-g++ hellTo.c -o hello.x
+
+ll
+
+file hello.x
+
+now sent this program to beaglebone
+
+sftp debian@192.168.2.27 
+
+put hello.x
+
+exit
+
+connect to beaglebone
+ssh 192.168.7.2 -l debian 
+
+./hello.x
+
+output will be here (hii example)
+

@@ -1,3 +1,3 @@
-we are updating our cmponents according to the project needs now we are going to use beaglebone Green, Xbee s2c,wireless Fpv 
+we are updating our cmponents according to the project needs now we are going to use beaglebone black, Xbee s2c,wireless Fpv 
   Camera.We are going to change  main controller because with raspberry pi, we tried video transmission but its very difficult to do in 
   c/c++.And with the help of python it can be to do in raspberry pi.So, we decided to change.
