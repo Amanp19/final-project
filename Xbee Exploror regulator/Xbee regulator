@@ -1,0 +1,10 @@
+
+
+The XBee Explorer Regulated takes care of the 3.3V regulation, signal conditioning, and basic activity indicators (Power, RSSI and DIN/DOUT activity LEDs). It translates the 5V serial signals to 3.3V so that we can connect a 5V (down to 3.3V) system to any XBee module. The board was conveniently designed to mate directly with Arduino Pro boards for wireless bootloading and USB based configuration.
+
+This unit works with all XBee modules including the Series 1 and Series 2.5, standard and Pro versions. Plug an XBee into this breakout and we will have direct access to the serial and programming pins on the XBee unit and will be able to power the XBee with 5V.
+
+This board comes with fully populated with 3.3V regulator (16V max input), XBee socket, four status LEDs, and a diode to allow 5V systems to communicate safely with the 3.3V XBees. 
+
+Note: A pull-up on DIN is required for this board to work properly. Series 1 and Series 2 XBee modules have their internal pull-up enabled by default. However, we will need to manually enable the pull-up on the 900MHz series.
+
