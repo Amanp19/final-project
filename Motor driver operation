@@ -1,0 +1,7 @@
+The L293D is a typical Driver motor IC which control a set of DC motor simultaneously in any direction
+It means that you can control two Dc motor with singlle L293D IC
+It works on with H bridge arrangement  H-bridge is a circuit which allows the voltage to be flown in either direction. 
+like, voltage need to change its direction for being able to rotate the motor in clockwise or anticlockwise direction.
+In single L293D chip has two brigde circuit inside IC which can rotate tow dc motor independently.
+There are two Enable pins on l293d. Pin 1 and pin 9, for being able to drive the motor, the pin 1 and 9 need to be high. 
+if sometimes both pins are low motor working stop immediately
