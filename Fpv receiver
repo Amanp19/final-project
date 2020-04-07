@@ -1,0 +1,3 @@
+We are using FPV rc832 receiver in our project to play video on device 
+It needs 12v dc power supply to operate but this particular power supply not available anywhere instore due to COVID-19 and takes too much time for online order
+So we just connect 12v dc adaptor used in wifi modems and it works.
