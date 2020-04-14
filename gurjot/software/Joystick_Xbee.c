@@ -15,7 +15,7 @@ void setup() {
   mySerial.begin(9600);
  
  
-  pinMode(A0,INPUT); // X
+  pinMode(A0,INPUT); 
 
 
   Serial.println("XBEE test");
