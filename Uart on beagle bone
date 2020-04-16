@@ -1,0 +1,2 @@
+Beagle bone black has ports but one of these ports is enabled by default but rest of the serial ports need to be enabled through Uart.
+Uart stands for Universal Asynchronous Receiver/Transmitter. Its a hardware device that used for serial communications.
